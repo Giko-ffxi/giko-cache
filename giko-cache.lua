@@ -1,6 +1,6 @@
 _addon.author 	= 'giko'
 _addon.name 	= 'giko-cache'
-_addon.version 	= '1.0.5'
+_addon.version 	= '1.0.6'
 
 print("-= This is a storage cache location for the giko's addons. There is no need to load it. =-")
 
